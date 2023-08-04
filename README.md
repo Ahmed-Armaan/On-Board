@@ -7,8 +7,8 @@ We want to extend the typical idea of a whiteboard website to add the following 
   <li>Insertion of custom images in the backgroud.</li>
   <li>insertion of google map as the background.</li>
   <li>Voice communication.</li>
-  <li>At a later time we would also like to add an option to draw over videos.</li>
+  <li>At a later time, we would also like to add an option to draw over videos.</li>
 </ul>
-<hr>
+<hr><br>
 All contribution and ideas,however small will be appreciated.
 Thanks.
